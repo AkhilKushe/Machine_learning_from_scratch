@@ -16,4 +16,6 @@ This exercise helped me understand gradient descent and how to implement it in a
 - Scipy
 - Numpy
 - Matplotlib
+- scikit learn
+- pandas
 
