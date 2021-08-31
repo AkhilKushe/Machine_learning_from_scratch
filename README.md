@@ -9,6 +9,7 @@ This exercise helped me understand gradient descent and how to implement it in a
 - Linear Regression (Supervised ML)
 - Support Vector Machine (Supervised)
 - K-mean Cluster (Unsupervised ML)
+- FeedForward NeuralNetrowk (Supervised)
 
 
 ## Python modules used
